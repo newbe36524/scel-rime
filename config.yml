@@ -1,0 +1,15 @@
+rime:
+  urls:
+    "计算机词汇大全【官方推荐】": https://pinyin.sogou.com/dict/detail/index/15117
+    "日剧、动漫大全【官方推荐】": https://pinyin.sogou.com/dict/detail/index/20656
+    "开发大神专用词库【官方推荐】": https://pinyin.sogou.com/dict/detail/index/15118
+    "程序猿词库": https://pinyin.sogou.com/dict/detail/index/36423
+    "编程语言": https://pinyin.sogou.com/dict/detail/index/50019
+  dict:
+    prefix: double_pinyin_flypy
+    master_name: awesome
+    custom_phrase: true
+  out:
+    fcitx5: "$HOME/.local/share/fcitx5/rime/cn_dicts"
+    # fcitx: "$HOME/.local/share/fcitx/rime/cn_dicts"
+    # ibus: "$HOME/.local/share/ibus/rime/cn_dicts"
